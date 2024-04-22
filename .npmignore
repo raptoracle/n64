@@ -18,3 +18,4 @@ test/
 vendor/
 webpack.*.js
 yarn.lock
+.DS*
