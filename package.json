@@ -22,8 +22,8 @@
     "test": "bmocha --reporter spec test/*-test.js"
   },
   "devDependencies": {
-    "bmocha": "git+https://github.com/raptoracle/bmocha.git#semver:=2.2.0",
-    "loady": "git+https://github.com/raptoracle/loady.git#semver:~0.0.5",
+    "bmocha": "git+https://github.com/raptoracle/bmocha.git",
+    "loady": "git+https://github.com/raptoracle/loady.git",
     "nan": "^2.19.0"
   },
   "engines": {
